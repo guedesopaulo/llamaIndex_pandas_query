@@ -1,1 +1,1 @@
-# llamaIndex_pandas_query
+# LlamaIndex: Analisando dados com Pandas
